@@ -1,4 +1,4 @@
-# helix-demo-peter
+# Demo for Peter
 
 Hello Peter, this will be an awesome demo!!
 
