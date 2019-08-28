@@ -6,4 +6,4 @@ Home
 
 [&times;](#)
 - [Home](/README.md)
-- [Google](www.google.com)
+- [Google](https://www.google.com)
